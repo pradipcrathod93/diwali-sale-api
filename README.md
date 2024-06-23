@@ -35,8 +35,8 @@ Key: Content-Type
 Value: application/json
 Set the body to raw JSON:
 {
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "Pradip",
+    "email": "pradip@example.com",
     "password": "password123",
     "password_confirmation": "password123"
 }
@@ -48,7 +48,7 @@ Key: Content-Type
 Value: application/json
 Set the body to raw JSON:
 {
-    "email": "john@example.com",
+    "email": "pradip@example.com",
     "password": "password123"
 }
 
